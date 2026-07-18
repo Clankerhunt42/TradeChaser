@@ -1,0 +1,2 @@
+# TradeChaser
+Consistency over everything.
